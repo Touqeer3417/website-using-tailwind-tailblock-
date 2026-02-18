@@ -2,7 +2,7 @@
 This website serves as a homage to these digital luminaries, offering a curated collection of resources, insights, and inspirations. Whether you're an aspiring <strong> entrepreneur, web developer, graphic designer, or programmer </strong> , this platform is your gateway to the wisdom and expertise of <b> Azad Chaiwala, Hisham Sarwar, GFX Mentor, and Code with Harry</b>.
 
 # 💫 About Me:
-🔭 I’m currently working on Mern Stack Development.<br>👯I am looking for a job.<br>🌱 I’m currently learning about development and programming.<br>⚡ I was working on a project related to web development.
+🔭 I’m currently working on Mern Stack Development.<br>👯🌱 I’m currently learning about development and programming.<br>⚡ I was working on a project related to web development.
 
 
 ## 🌐 Socials:
